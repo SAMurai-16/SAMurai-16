@@ -8,7 +8,7 @@
 
 ###
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <!-- Left side: Other GIFs and icons -->
   <div style="flex: 1 1 auto;">
     <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between;">
