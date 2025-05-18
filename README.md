@@ -54,8 +54,37 @@
         <img src="https://camo.githubusercontent.com/c0ab2653116b7be542bf9a2a03640ba9c56f9f4aad0c103a8a4494b67c9b58e8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31392f43656c6572795f6c6f676f2e706e67" height="80" />
       </a>
                <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="80" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" height="80" />
       </a>
+            </a>
+               <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" height="80" />
+      </a>
+            </a>
+               <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="80" />
+      </a>
+            </a>
+               <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="80" />
+      </a>
+            </a>
+               <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="80" />
+      </a>
+            </a>
+               <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" height="80" />
+      </a>
+            </a>
+               <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" height="80" />
+      </a>
+      
+      
+      
+      
+      
       
       
 
