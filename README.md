@@ -3,7 +3,9 @@
     <summary>
       <h1 style="display: inline-block">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Samyak</h1>
       <br/>
-      <h3 align="center">A Sophomore at IIIT Gwalior</h3>
+<h3 align="center">A Sophomore at IIIT Gwalior</h3>
+<hr style="border: none; border-top: 2px solid #ccc; width: 80%; margin: 20px auto;">
+
     </summary>
   </ul>
 </div>
