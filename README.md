@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="240" width = '400' src="https://i.pinimg.com/originals/78/36/37/7836378c30d35718fc29da3778a5dae5.gif" />
+
 
 ###
 
@@ -57,9 +57,7 @@
     <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
   </a>
   
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
+
 <!-- PostgreSQL -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 <img width="12" />
