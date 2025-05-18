@@ -8,7 +8,7 @@
 
 ###
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <!-- Left side: Other GIFs and icons -->
   <div style="flex: 1 1 auto;">
     <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between;">
@@ -104,25 +104,3 @@
 </div>
 
 ###
-
-<br /><br /><br />
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SAMurai-16&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMurai-16&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<br /><br />
-
-<br clear="both" />
-
-<div align="center" style="margin-top: 30px;">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br />
-  <img src="https://raw.githubusercontent.com/SAMurai-16/SAMurai-16/output/snake.svg" alt="Snake animation" />
-  <br /><br /><br />
-</div>
