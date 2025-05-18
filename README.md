@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Sangam and I'm an "IT Student", from ABV - IIITM Gwalior🎓</h1>
+<h1 align="center">Hi 👋! My name is Samyak and I'm an "IT Student", from ABV - IIITM Gwalior🎓</h1>
 <br><br><br>
 <!---->
 
