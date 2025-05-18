@@ -49,12 +49,10 @@
 
 <!--<h2 align="left">📱 Connect with Me 😀</h2>-->
 <div align="left">
-  <a href="https://www.linkedin.com/in/sangam-pratap-singh-328838287/" target="_blank">
+  <a href="https://www.linkedin.com/in/samyak-choudhary/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/1049175157895340142" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
+
 </div>
 
 ###
@@ -62,8 +60,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://streak-stats.demolab.com?user=Random-Pikachu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Random-Pikachu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=SAMurai-16&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMurai-16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <br/><br/>
@@ -72,7 +70,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/Random-Pikachu/Random-Pikachu/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SAMurai-16/SAMurai-16/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
 </div>
 
