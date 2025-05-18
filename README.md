@@ -39,16 +39,16 @@
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="80" />
       </a>
             <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://th.bing.com/th/id/OIP.qgKpO0a6IjM9CIWK1n0JjwHaHa?w=168&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="80" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" />
       </a>
             <a href="https://www.djangoproject.com/" target="_blank">
         <img src="https://i.pinimg.com/736x/c2/66/4d/c2664dcf18d2fd777aa954df6cd113a2.jpg" height="80" />
       </a>
             <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25090553/nodejs-inner.webp" height="80" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" />
       </a>
             <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25090553/nodejs-inner.webp" height="80" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="80" />
       </a>
       
 
@@ -57,14 +57,6 @@
       
    </div>
 
-   <div style="margin-top: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" />
-    </div>
-  </div>
 
   <!-- Right side: First GIF -->
   <div style="flex: 0 0 auto; margin-left: auto;">
