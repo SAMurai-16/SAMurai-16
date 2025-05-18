@@ -50,6 +50,13 @@
             <a href="https://www.djangoproject.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="80" />
       </a>
+               <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://camo.githubusercontent.com/c0ab2653116b7be542bf9a2a03640ba9c56f9f4aad0c103a8a4494b67c9b58e8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31392f43656c6572795f6c6f676f2e706e67" height="80" />
+      </a>
+               <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="80" />
+      </a>
+      
       
 
      
