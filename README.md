@@ -59,9 +59,7 @@
 
 
   <!-- Right side: First GIF -->
-  <div style="flex: 0 0 auto; margin-left: auto;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB4MTI0OWVzaTJkOXN2bTY2dHBiZzh3c2FvemJmMHg5d28wbTV5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" alt="Right gif" />
-  </div>
+
 
 </div>
 
