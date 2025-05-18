@@ -1,12 +1,7 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Samyak</h1>
-      <br/>
-<h3 align="center">A Sophomore at IIIT Gwalior</h3>
-    </summary>
-  </ul>
-</div>
+<h1 align="center">Hi 👋! My name is Sangam and I'm an "IT Student", from ABV - IIITM Gwalior🎓</h1>
+<br><br><br>
+<!---->
+
 
 ---
 
