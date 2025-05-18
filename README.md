@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋! My name is Samyak and I'm an "IT Student", from ABV - IIITM Gwalior🎓</h1>
-<br><br><br>
-<!---->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Samyak</h1>
+      <br/>
+      <h3 align="center">A Sophomore at IIIT Gwalior</h3>
+    </summary>
+  </ul>
+</div>
+
 
 
 <img align="right" height="240" width = '400' src="https://i.pinimg.com/originals/78/36/37/7836378c30d35718fc29da3778a5dae5.gif" />
