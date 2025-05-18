@@ -28,6 +28,11 @@
    <a href="https://www.djangoproject.com/" target="_blank">
         <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" height="80" />
       </a>
+
+  <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif" height="80" />
+      </a>
+      
     </div>
 
    <div style="margin-top: 10px;">
