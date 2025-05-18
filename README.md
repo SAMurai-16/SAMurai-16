@@ -36,7 +36,7 @@
         <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25090553/nodejs-inner.webp" height="80" />
       </a>
             <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://pluspng.com/img-png/arduino-logo-png-arduino-logo-png-img-1600-1280-free-transparent-adafruit-900x720.jpg" height="80" />
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="80" />
       </a>
             <a href="https://www.djangoproject.com/" target="_blank">
         <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25090553/nodejs-inner.webp" height="80" />
