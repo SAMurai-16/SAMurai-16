@@ -5,78 +5,45 @@
 <!---->
 
 ###
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB4MTI0OWVzaTJkOXN2bTY2dHBiZzh3c2FvemJmMHg5d28wbTV5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" />
-  <img width="12" />
 
-###
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-<!--<h2 align="left">⚒️ Languages & Tools I worked with ⚒️</h2>-->
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="node logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="node logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
-  <img width="12" />
+  <!-- Right side: First GIF -->
+  <div style="flex: 0 0 auto; margin-left: auto;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB4MTI0OWVzaTJkOXN2bTY2dHBiZzh3c2FvemJmMHg5d28wbTV5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" alt="Right gif" />
+  </div>
 
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
+  <!-- Left side: The rest -->
+  <div style="flex: 1 1 auto;">
+    <!-- Your other gifs and icons go here --> 
+    <p float="left">
+      <a href="" target="_blank" >
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp2em45aHZ1eWpzZGxmN295YW9zbjZscGFzYnRobzFiOHhqczE4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif"  height="90" />
+      </a>
+      
+   <a href="https://python.org/" target="_blank" >
+        <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+      </a>
+      <a href="https://www.docker.com/" target="_blank" >
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+      </a>
+      
+   <a href="https://www.djangoproject.com/" target="_blank" >
+        <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
+      </a>
+    </p>
 
+ <!-- PostgreSQL, MySQL, Redis icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" />
+    <img width="12" />
+  </div>
 
-<p float="left">
-  <a href="" target="_blank" >
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp2em45aHZ1eWpzZGxmN295YW9zbjZscGFzYnRobzFiOHhqczE4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif"  height="90" />
-  </a>
- 
-  <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  
-  <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
-  </a>
-  
-
-<!-- PostgreSQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-<img width="12" />
-
-<!-- MySQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-<img width="12" />
-
-<!-- Redis -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" />
-<img width="12" />
-
-  
-  
 </div>
+
 
 ###
 
