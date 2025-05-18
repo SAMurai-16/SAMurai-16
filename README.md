@@ -4,7 +4,11 @@
 <br><br><br>
 <!---->
 
+###
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB4MTI0OWVzaTJkOXN2bTY2dHBiZzh3c2FvemJmMHg5d28wbTV5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" />
+  <img width="12" />
 
+###
 
 <!--<h2 align="left">⚒️ Languages & Tools I worked with ⚒️</h2>-->
 <div align="left">
