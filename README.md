@@ -11,7 +11,8 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <!-- Left side: Other GIFs and icons -->
   <div style="flex: 1 1 auto;">
-    <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between;">
+   <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
+
       
   <a href="#" target="_blank">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp2em45aHZ1eWpzZGxmN295YW9zbjZscGFzYnRobzFiOHhqczE4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" height="90" />
