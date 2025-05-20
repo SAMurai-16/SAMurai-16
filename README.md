@@ -4,7 +4,7 @@
   </h1>
 </ul>
 
-<br /><br /><br />
+
 
 ###
 
@@ -78,7 +78,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png" height="80" />
       </a>
 
-    <!-- Add the rest of your <a> tags below using the same structure -->
+
   </div>
 </div>      
  
