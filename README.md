@@ -4,7 +4,7 @@
   </h1>
 </ul>
  <a href="#" target="_blank" style="margin: 12px;">
-      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="90" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="40" />
     </a>
 
 
@@ -20,7 +20,7 @@
     </a>
 
   <a href="https://python.org/" target="_blank" style="margin: 12px;">
-      <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="90" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="90" />
     </a>
 
   <a href="https://www.docker.com/" target="_blank" style="margin: 12px;">
