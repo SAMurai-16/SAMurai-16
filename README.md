@@ -60,7 +60,7 @@
       </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" height="80" />
+        <img src="https://camo.githubusercontent.com/0c1478a4a46d47fb7fa831a4329d7a6ed0121523ecdf2d188d183cbfa7a780af/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e64393134643531613838613537343035616132653932643665303339643535393f72696b3d5439436c585037566e36644e3167267069643d496d6752617726723d30" height="80" />
       </a>
 
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
