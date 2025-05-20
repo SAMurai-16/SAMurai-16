@@ -64,7 +64,7 @@
       </a>
 
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="80" />
+        <img src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/css.gif" height="80" />
       </a>
   <a href="https://git-scm.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="80" />
