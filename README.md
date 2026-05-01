@@ -38,7 +38,7 @@ I'm Samyak, an IT undergrad from IIIT Gwalior.
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" height="40" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" height="40" />
   <img width="12" />
