@@ -30,8 +30,6 @@ I'm Samyak, an IT undergrad from IIIT Gwalior.
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="40" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="40" />
-  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" height="40" />
@@ -39,8 +37,6 @@ I'm Samyak, an IT undergrad from IIIT Gwalior.
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="40" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" height="40" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" height="40" />
   <img width="12" />
@@ -57,8 +53,6 @@ I'm Samyak, an IT undergrad from IIIT Gwalior.
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebAssembly.svg" height="40" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" />
   <img width="12" />
